@@ -1,0 +1,22 @@
+{
+  "2wiki": {
+    "samples": "/YOUR/DATA/2wikimultihopqa.json",
+    "corpus": "/YOUR/DATA/2wikimultihopqa_corpus.json",
+    "offline": "/YOUR/INDEXES/2wiki"
+  },
+  "musique": {
+    "samples": "/YOUR/DATA/musique.json",
+    "corpus": "/YOUR/DATA/musique_corpus.json",
+    "offline": "/YOUR/INDEXES/musique"
+  },
+  "hotpotqa": {
+    "samples": "/YOUR/DATA/hotpotqa.json",
+    "corpus": "/YOUR/DATA/hotpotqa_corpus.json",
+    "offline": "/YOUR/INDEXES/hotpotqa"
+  },
+  "nq": {
+    "samples": "/YOUR/DATA/nq_rear.json",
+    "corpus": "/YOUR/DATA/nq_rear_corpus.json",
+    "offline": "/YOUR/INDEXES/nq"
+  }
+}
